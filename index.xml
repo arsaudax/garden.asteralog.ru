@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Asteralog</title>
+      <link>https://garden.asteralog.ru</link>
+      <description>Последние 10 заметок on Asteralog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Первая публикация</title>
+    <link>https://garden.asteralog.ru/ritual-stone-in-a-resort-project</link>
+    <guid>https://garden.asteralog.ru/ritual-stone-in-a-resort-project</guid>
+    <description><![CDATA[ Ритуальный камень в основание проекта ]]></description>
+    <pubDate>Fri, 29 Aug 2025 09:30:00 GMT</pubDate>
+  </item><item>
+    <title>Вместо эпиграфа</title>
+    <link>https://garden.asteralog.ru/intro</link>
+    <guid>https://garden.asteralog.ru/intro</guid>
+    <description><![CDATA[ Этот блог колючий, словно чертополох ]]></description>
+    <pubDate>Mon, 18 Aug 2025 12:30:00 GMT</pubDate>
+  </item><item>
+    <title>Carduus camporum → Astera mea in verborum cavillatio habitat</title>
+    <link>https://garden.asteralog.ru/</link>
+    <guid>https://garden.asteralog.ru/</guid>
+    <description><![CDATA[ Это цифровой сад — картотека мыслей, наблюдений и концепций. Здесь заметки не выстроены в линейный поток. ]]></description>
+    <pubDate>Fri, 18 Jul 2025 13:30:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
